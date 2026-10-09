@@ -1,0 +1,14 @@
+assessment_id,month,course_id,batch,score,attendance_pct
+1,Jan,C1,Morning,72,90
+2,Jan,C2,Evening,45,70
+3,Jan,C3,Morning,65,85
+4,Jan,C4,Weekend,38,60
+5,Feb,C1,Evening,80,95
+6,Feb,C2,Weekend,55,80
+7,Feb,C3,Morning,48,75
+8,Feb,C4,Evening,68,88
+9,Mar,C1,Weekend,90,98
+10,Mar,C2,Morning,60,82
+11,Mar,C3,Evening,75,92
+12,Mar,C4,Weekend,42,65
+12,Mar,C4,Weekend,42,65
